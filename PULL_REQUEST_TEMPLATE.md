@@ -2,16 +2,17 @@
 
 ### what
 
-_What does this change do?_
+<!-- What does this change do? -->
 
 ### why
 
-_Why is this change being made?_
+<!-- Why is this change being made? -->
 
 ### testing
 
-_How was this change tested?_
+<!-- How was this change tested? -->
+- [ ]
 
 ### docs
 
-_Could this change benefit from a documentation update (either user-facing or internal)? If so, provide link to new docs or ticket to create them._
+<!-- Could this change benefit from a documentation update (either user-facing or internal)? If so, provide link to new docs or ticket to create them. -->
