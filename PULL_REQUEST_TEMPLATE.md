@@ -16,7 +16,6 @@
 ### docs
 
 <!-- 
-
 Does this change need docs?
 
 - a release note in NEWS.MD
@@ -25,5 +24,4 @@ Does this change need docs?
 - internal docs in Confluence or elsewhere?
 
 Please include a link to the new docs or ticket to create them. 
-
 -->
