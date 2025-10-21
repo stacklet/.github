@@ -15,4 +15,15 @@
 
 ### docs
 
-<!-- Could this change benefit from a documentation update (either user-facing or internal)? If so, provide link to new docs or ticket to create them. -->
+<!-- 
+
+Does this change need docs?
+
+- a release note in NEWS.MD
+- user-facing docs in stacklet/docs
+- runbook update in stacklet/docs
+- internal docs in Confluence or elsewhere?
+
+Please include a link to the new docs or ticket to create them. 
+
+-->
